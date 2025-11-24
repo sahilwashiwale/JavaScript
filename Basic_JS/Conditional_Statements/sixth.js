@@ -10,5 +10,5 @@ function Demo()
     console.log(car,car2,car3); //bcoz let var const is function scope
     
 }
-// console.log(car2); give ReferenceError: car2 is not defined
+ console.log(car2);// give ReferenceError: car2 is not defined
 Demo();

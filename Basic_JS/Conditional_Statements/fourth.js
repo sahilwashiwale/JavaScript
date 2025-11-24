@@ -11,6 +11,7 @@
 if(true){
 /**
  * block level scope
+ * if any with start curly bracket is a block like if else for 
  */
 let name = "ab";
 const name2 = "cd";
@@ -19,3 +20,7 @@ console.log(name,name2);
 
 }
 console.log(name3);
+console.log(name);
+console.log(name2);
+
+
