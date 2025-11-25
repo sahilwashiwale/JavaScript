@@ -6,7 +6,7 @@
  * age=>50 and above => u already vote
  */
 
- let age = 100;
+ let age = 60;
  if(age>0 && age<=17)
  {
     console.log("u cannot vote");
