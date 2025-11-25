@@ -10,7 +10,7 @@
 //     console.log("fail");
     
 // }
-let num=34;
+let num=70;
 let result;//undefined
 let result1;
 result = num>35 ? "pass":"fail"; // ternary opeartor
