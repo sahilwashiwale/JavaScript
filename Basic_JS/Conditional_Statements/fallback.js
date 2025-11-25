@@ -21,4 +21,4 @@
  let result3 = 100;
  let congratulation3 = undefined || result3; // fall back 
 
- console.log(congratulation3+100);
+ console.log(congratulation3+200);
