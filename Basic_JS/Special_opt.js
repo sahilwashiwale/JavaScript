@@ -14,6 +14,7 @@ let num2 = 100;
 num2--;
 --num2;
 --num2;
+num--;
 console.log(num2--);
 console.log(num2);
 
