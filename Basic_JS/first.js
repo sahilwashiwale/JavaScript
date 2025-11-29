@@ -7,5 +7,5 @@ const pi = 3.14; //'const' declarations must be initialized.
 console.log(pi);
 
 let pincode;
-pincode = 188282;
+pincode = 412895;
 console.log(pincode);
