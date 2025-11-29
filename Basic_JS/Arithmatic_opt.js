@@ -3,7 +3,7 @@
 //arthmatic => +,-,*,/,%
 //exponential operator=> **
 // its binary operator bcoz giving 2 numbers to do opration
-console.log(10+13);
+console.log(120+13);
 console.log(20-13);
 console.log(10*13);
 console.log(10/13);
