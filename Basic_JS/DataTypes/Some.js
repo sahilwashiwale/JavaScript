@@ -1,6 +1,6 @@
  
 
- let arr = [12,43,23,41,65,11];
+ let arr = [55,98,16];
 /**
  * some => true/false logical "OR" => even if the single element is passing the given condition
  * u will get the answer true
